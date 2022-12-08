@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Quick start
+Access website [wine-seller](https://wine-seller-app.vercel.app)
+Create your age proof in [our website project](http://194.146.12.190:3000/home/proofs). You can see [our project](https://github.com/BkCrypt0/BkCrypt0-Frontend) to know in detail.
+After creating age proof, in tab **My proof** on the left sidebar, please download **ageProof.json** file. Then, you using this file to verify age proof on [wine-seller](https://wine-seller-app.vercel.app) website
+
 ## Available Scripts
 
 In the project directory, you can run:
